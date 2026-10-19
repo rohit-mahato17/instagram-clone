@@ -12,4 +12,5 @@ This is insta clone
 This is insta clone
 This is insta clone
 This is insta clone
-This is inst clone
+This is insta clone
+This is insta clone
